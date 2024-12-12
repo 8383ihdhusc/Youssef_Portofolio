@@ -70,7 +70,19 @@ a:hover{
     background: #a3790e;
     bottom: 0;
 }
-
+.name, .name2{
+    position: absolute;
+    top: 30px;
+    left: 25px;
+    color: #55cbb2;
+    background: ;
+    text-decoration: underline;
+}
+.name2{
+    position: absolute;
+    top: 64px;
+    left: 45px;
+}
 .little-about{
     background: #f30032e1;
     width: 100%;
