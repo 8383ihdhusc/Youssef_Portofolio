@@ -73,16 +73,17 @@ a:hover{
 .name, .name2{
     position: absolute;
     top: 30px;
-    left: 25px;
-    color: #55cbb2;
+    left: 20px;
+    color: #0f231f;
+    font-size: 30px;
     background: ;
     text-decoration: underline;
 }
 .name2{
     position: absolute;
     top: 64px;
-    left: 45px;
-}
+    left: 40px;
+    }
 .little-about{
     background: #f30032e1;
     width: 100%;
