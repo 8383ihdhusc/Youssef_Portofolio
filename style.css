@@ -184,7 +184,8 @@ nav{
     margin-top: 20px;
     opacity: 0;
     visibility: hidden;
-    transition: opacity 5s ease-in-out, visibility 0s {}5s;    
+    transition: opacity 5s ease-in-out, visibility 0s {}5s;  
+    padding-top: 20px;
 }
 i{
     background: #F1F3F4;
